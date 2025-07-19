@@ -15,6 +15,9 @@ Email Me 👉 ✉️ **anas92642@gmail.com** For Collaboration/Project or Anythi
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** Anas Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anas92642&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -36,11 +39,6 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ![](https://nirzak-streak-stats.vercel.app/?user=anas92642&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anas92642&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anas92642&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anas92642&limit=5&theme=neon&combine_all_yearly_contributions=true)
