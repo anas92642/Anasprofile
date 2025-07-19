@@ -15,6 +15,11 @@ Email Me 👉 ✉️ **anas92642@gmail.com** For Collaboration/Project or Anythi
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** Anas Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🔗 I am a Content Creator. 😊😊
 
